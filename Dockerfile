@@ -10,4 +10,4 @@ ENTRYPOINT ["C:\\ServiceMonitor.exe", "w3svc"]
 
 MAINTAINER MehulSolanki
 
-LABEL NAME=VBDotNETDesktopOS
+LABEL NAME=VBDotNET
